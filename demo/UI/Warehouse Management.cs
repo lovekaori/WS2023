@@ -83,10 +83,6 @@ namespace demo.UI
             Batch_test();
         }
 
-        private void Null()
-        {
-
-        }
 
         private void button1_Click(object sender, EventArgs e)
         {
